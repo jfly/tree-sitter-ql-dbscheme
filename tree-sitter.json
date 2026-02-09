@@ -1,7 +1,8 @@
 {
+  "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/config.schema.json",
   "grammars": [
     {
-      "name": "ql-dbscheme",
+      "name": "ql_dbscheme",
       "camelcase": "QlDbscheme",
       "scope": "source.dbscheme",
       "path": ".",
